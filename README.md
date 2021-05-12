@@ -1,0 +1,2 @@
+# contract
+Shika Inu Contract
